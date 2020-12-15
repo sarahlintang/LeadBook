@@ -9,4 +9,4 @@ This repositary is for LeadBook ML Challange. here the description of files:
 3. LeadBook Unsupervised job clustering.ipynb
     code for unsupervised approach
 4. while code for supervised approach provided on google colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PYF58vrwsQEd1fFKlU0XEU6UpFYapPG4?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
